@@ -1,1 +1,1 @@
-# Special_effects_text_editor
+# 带文字特效的文本编辑器
